@@ -1,5 +1,5 @@
 # CoroutineTest
-How to do unit test for coroutines. 
+How to do **unit test for coroutines**. 
 
 First of all read this very useful info about [kotlinx-coroutines-test](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-test/)
 
